@@ -1,0 +1,37 @@
+
+body {
+  font-family: 'Montserrat', sans-serif;
+  margin-top: 200px !important;
+  margin: auto;
+  width: 50%;
+  border: 3px solid LightBlue;
+  padding: 10px;
+  max-width: 500px;
+  text-align: center;
+}
+
+h1, h3 {
+  text-transform: uppercase;
+  font-weight: 600;
+  padding-bottom: 15px;
+}
+
+label-huge{
+  color: red;
+}
+
+
+select {
+  padding: 5px 15px;
+  background-color: DodgerBlue;
+  color: white;
+  margin-bottom: 20px;
+}
+
+button {
+  background-color: darkblue;
+  border-radius: 10px;
+  padding: 5px 15px;
+  color: white;
+  margin-top: 10px;
+}
