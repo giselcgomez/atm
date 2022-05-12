@@ -1,6 +1,6 @@
 # ATM Exercise Refactoring
 
-* DESCRIPTION *
+*DESCRIPTION*
 
 This project is a simple REACT ATM that keeps track of deposits and withdraws. It shows your account balance.
 
